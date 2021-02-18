@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #C6C5C5;
+  background: rgba(24, 47, 124, 0.7);
   padding: 10px 0;
   font-size: 14px;
 }
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #fff;
+  background: rgba(195, 195, 195, 0.6);
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
@@ -793,7 +793,6 @@ section {
 .clients .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
-  filter: grayscale(100);
 }
 
 .clients .swiper-slide img:hover {
@@ -2171,7 +2170,7 @@ section {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #fff;
+  color: #000;
 }
 
 #footer .credits .a{
